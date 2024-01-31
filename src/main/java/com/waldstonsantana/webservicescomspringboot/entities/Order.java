@@ -3,7 +3,6 @@ package com.waldstonsantana.webservicescomspringboot.entities;
 import java.io.Serializable;
 import java.time.Instant;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Objects;
 import java.util.Set;
 
